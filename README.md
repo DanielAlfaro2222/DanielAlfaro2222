@@ -1,5 +1,4 @@
 # Hi, I'm Daniel Alfaro 👋
-
 <table>
     <tbody>
         <tr>
@@ -23,6 +22,8 @@
                 <br>
                 Python
             </td>
+        </tr>
+        <tr>
             <td align="center" width="100">
                 <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1758841.png&f=1&nofb=1" alt="Logo Django" width="55" height="53">
                 <br>
