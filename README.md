@@ -20,4 +20,4 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAlfaro2222&theme=dracula&layout=compact&hide_border=true&hide=html,css,handlebars,procfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAlfaro2222&theme=dracula&layout=compact&hide_border=true&hide=html,css,handlebars,procfile,scss)](https://github.com/anuraghazra/github-readme-stats)
