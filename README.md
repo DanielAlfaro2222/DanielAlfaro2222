@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is Daniel Alfaro
-### I am Backend developer
+### I am a Backend developer
 
 ### Languages and tools:
 <div>
