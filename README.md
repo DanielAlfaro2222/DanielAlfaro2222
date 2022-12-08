@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/DanielAlfaro2222/DanielAlfaro2222/blob/main/hello.gif" width="35"></img>
+    <img src="https://github.com/DanielAlfaro2222/DanielAlfaro2222/blob/main/hello.gif" width="30"></img>
     Hi, I'm Daniel Alfaro
 </h1>
 
@@ -13,7 +13,10 @@
     <img src="https://github.com/DanielAlfaro2222/DanielAlfaro2222/blob/main/divider2.png" ></img>
 </p>
 
-<h3 align="center">About me</h3>
+<h3 align="center">
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
+    About me
+</h3>
 
 - 🌱 I’m currently learning **AWS, Testing**
 
@@ -35,14 +38,21 @@
     <img src="https://github.com/DanielAlfaro2222/DanielAlfaro2222/blob/main/divider2.png" ></img>
 </p>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">
+    <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40">
+    Languages and Tools
+</h3>
+
 <p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
 <p align="center">
     <img src="https://github.com/DanielAlfaro2222/DanielAlfaro2222/blob/main/divider2.png" ></img>
 </p>
 
-<h3 align="center">Current Stats</h3>
+<h3 align="center">
+    <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">
+    Current Stats
+</h3>
 
 <p align="center">
         <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAlfaro2222&theme=dracula&layout=compact&hide_border=true&hide=html,css,handlebars,procfile,scss" alt="danielalfaro2222" />
