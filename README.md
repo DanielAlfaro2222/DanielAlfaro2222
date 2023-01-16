@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Angular, Spring boot, Django**
 
-- 📫 How to reach me **danielalfaro22222@gmail.com**
+- 📫 How to reach me **dalfaro1103@hotmail.com**
 
 <p align="center">
     <img src="https://github.com/DanielAlfaro2222/DanielAlfaro2222/blob/main/divider2.png" ></img>
