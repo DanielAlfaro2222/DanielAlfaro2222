@@ -22,8 +22,6 @@
 
 - 💬 Ask me about **Angular, Spring boot, Django**
 
-- 📫 How to reach me **dalfaro1103@hotmail.com**
-
 <p align="center">
     <img src="https://github.com/DanielAlfaro2222/DanielAlfaro2222/blob/main/divider2.png" ></img>
 </p>
@@ -31,7 +29,7 @@
 <h3 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/danielalfaro222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="danielalfaro222" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://co.linkedin.com/in/alfaro-daniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://co.linkedin.com/in/alfaro-daniel" height="30" width="40" /></a>
+<a href="https://co.linkedin.com/in/alfaro-daniel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://co.linkedin.com/in/alfaro-daniel" height="30" width="40" /></a>
 </p>
 
 <p align="center">
