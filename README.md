@@ -18,7 +18,7 @@
     About me
 </h3>
 
-- 🌱 I’m currently learning **AWS, Testing**
+- 🌱 I’m currently learning **AWS, Testing, Docker, C#**
 
 - 💬 Ask me about **Angular, Spring boot, Django**
 
