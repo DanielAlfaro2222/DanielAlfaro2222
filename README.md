@@ -18,9 +18,9 @@
     About me
 </h3>
 
-- 🌱 I’m currently learning **AWS, Testing, Docker, C#**
+- 🌱 I’m currently learning **AWS, Testing, Docker, Go**
 
-- 💬 Ask me about **Angular, Spring boot, Django**
+- 💬 Ask me about **Angular, Spring boot, Go**
 
 <p align="center">
     <img src="https://github.com/DanielAlfaro2222/DanielAlfaro2222/blob/main/divider2.png" ></img>
